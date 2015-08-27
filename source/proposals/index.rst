@@ -6,3 +6,4 @@ Proposals
    
    version_naming
    lookup_tables
+   documentation_review
